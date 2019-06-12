@@ -3,7 +3,7 @@
 [![Tool](https://img.shields.io/badge/Tool-Stack%20Overflow-orange.svg)](https://github.com/XBWer/Stack-Overflow-Toolkit)
 
 ## Goal of this repository
-Since I frequently play with [Stack Overflow](https://stackoverflow.com/) (SO) data, I have written many data processing scripts. And I realized that those scripts are commonly used in different related project and maybe benefit to someone else like me to avoid reinventing the wheel. That's the idea this repository comes from.
+Since I frequently play with [Stack Overflow](https://stackoverflow.com/) (SO) data ([download](https://archive.org/download/stackexchange), [documentation](https://meta.stackexchange.com/questions/2677/database-schema-documentation-for-the-public-data-dump-and-sede)), I have written many data processing scripts. And I realized that those scripts are commonly used in different related project and maybe benefit to someone else like me to avoid reinventing the wheel. That's the idea this repository comes from.
 
 ## Directory Structure
 
