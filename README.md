@@ -12,18 +12,13 @@ It will be updated with the growth of the repository.
 If you are unclear which directory should be put in for your code, you can put it in the `Tmp` first and I will make it in the right place later.
 
 ```
-.
-│   README.md
-│   Contributors.md    
-│
+Root
 └───DataDump
-│   │   import.sql
-│   
 └───Python
-│   
 └───Java
-│   
 └───Tmp
+└───README.md
+└───Contributors.md
 ```
 
 ## You are welcomed to contribute
