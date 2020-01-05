@@ -1,7 +1,7 @@
-drop database if exists StackOverflow_04Mar2019;
-CREATE database IF NOT EXISTS StackOverflow_04Mar2019 DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
+drop database if exists SO;
+CREATE database IF NOT EXISTS SO DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
 
-use StackOverflow_04Mar2019;
+use SO;
 
 -- Create Table
 
