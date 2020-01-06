@@ -1,3 +1,4 @@
+-- start mysql use: mysql --local-infile -u root -p
 drop database if exists SO;
 CREATE database IF NOT EXISTS SO DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
 
